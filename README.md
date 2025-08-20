@@ -1,1 +1,4 @@
 # Aplicaciones_Moviles
+
+desarrollo aplicaciones moviles 
+Este es el repositorio donde se añadiran las cosas de clases
